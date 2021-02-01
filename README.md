@@ -9,4 +9,4 @@ Upcoming features:
 - Multiple window support
 - ...
 
-(https://github.com/ademayari/Notepad-Air/tree/main/Notepad%20Air/images/screenshot.png?raw=true)
+![Notepad Air Preview] (https://github.com/ademayari/Notepad-Air/tree/main/Notepad%20Air/images/screenshot.png?raw=true)
