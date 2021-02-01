@@ -10,4 +10,4 @@ Upcoming features:
 - ...
 
 
-![Notepad Air Preview](https://github.com/ademayari/Notepad-Air/Notepad Air/images/screenshot.png?raw=true)
+![plot](./Notepad Air/images/screenshot.png)
