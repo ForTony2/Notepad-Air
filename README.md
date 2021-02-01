@@ -10,4 +10,4 @@ Upcoming features:
 - ...
 
 
-![plot](./Notepad Air/images/screenshot.png)
+![alt text](https://github.com/ademayari/Notepad-Air/blob/main/screenshot.png?raw=true)
